@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Map Location</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="not_found">Not Found</string>
+    <string name="loading">loading&#8230;</string>
+    
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    
+    <string name="cancelled">Cancelled</string>
+    <string name="cancell">Cancel</string>
+    
+    <string name="error">error</string>
+    
+    <string name="error_on_signin">error on signin</string>
+    <string name="ok">OK</string>
+
+    <string name="check_in">CheckIn</string>
+    
+    <string name="check_in_text">Check-in at : </string>
+    
+     <string name="check_in_completed_successfully">Check-in completed successfully.</string>
+      <string name="check_in_error">Check-in error.</string>
+    
+    <string name="google_play_services_not_found">Google play services not found</string>
+    
+    <string name="wellcom_text">Wellcom to the MapLocation application, this is sample application, it\'s use Play services, Fused location, Map and AppEnging, source code for this project can be found on https://github.com/lolevsky/MapLocation.</string>
+    
+    <string-array name="drawer_array">
+        <item>Live location</item>
+        <item>Check-in</item>
+        <item>My check-in\'s</item>
+        <item>All last check-in\'s</item>
+    </string-array>
+</resources>
